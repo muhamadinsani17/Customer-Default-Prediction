@@ -1,0 +1,3 @@
+berikut link deploy hasil milestone 2 untuk fraud transaction prediction model :
+
+https://huggingface.co/spaces/Muhamadinsani17/Fraud-Transaction
